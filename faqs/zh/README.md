@@ -1,6 +1,6 @@
 # MakerDAO 常见问题解答解 (FAQ)
 
-你可以找到 MakerDAO 的 *中文* 常见问题解答。
+你可以查看 MakerDAO 的 **中文** 常见问题解答。
 
 ## [稳定币 Dai](dai.md)
 
