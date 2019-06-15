@@ -120,7 +120,7 @@ CDP产生的稳定费可以简单按天估算：
 
 ## 如何参与风险团队和基金会对于系统调整的讨论？
 
-请考虑参与我们每周的[治理风险](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)会议，我们会详细讨论相关问题。议程会定期发布在 [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). 也可以到 [治理部分](./README.md#governance)存储库查看。
+请考虑参与我们每周的[治理风险](https://calendar.google.com/calendar/embed?src=makerdao.com_3efhm2ghipksegl009ktniomdk%40group.calendar.google.com&ctz=America%2FLos_Angeles)会议，我们会详细讨论相关问题。议程会定期发布在 [r/MakerDAO](https://www.reddit.com/r/MakerDAO/). 也可以到 [治理部分](./README.md#治理)存储库查看。
 
 ## 稳定费的调整范围有限制吗?
 
