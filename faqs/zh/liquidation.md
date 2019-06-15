@@ -161,7 +161,7 @@ CDP 所有者面临的主要挑战是在高度不可预测的市场中保持安�
 
 请记住，创建 CDP 代表着承担风险。愿意承担多少风险取决于多种因素。决定 [风险组合](https://www.investopedia.com/terms/r/risk-profile.asp) 本身就是一门科学，但每个 CDP 用户都需要自己掌握这个问题。
 
-有关风险的更多信息，请参阅提供重要法律信息的[服务条款](https://cdp.makerdao.com/terms)。在使用 Dai 稳定币系统之前，每个 CDP 用户都需要确认服务条款。
+有关风险的更多信息，请参阅提供重要法律信息的[服务条款](https://cdp-cn.makerdao.com/terms)。在使用 Dai 稳定币系统之前，每个 CDP 用户都需要确认服务条款。
 
 ## 智能合约如何出售抵押品？
 
