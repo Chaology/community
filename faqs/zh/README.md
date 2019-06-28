@@ -1,4 +1,4 @@
-# MakerDAO 常见问题解答解 (FAQ)
+# MakerDAO 常见问题解答 (FAQ)
 
 这里是 MakerDAO 的**中文**常见问题解答。
 
