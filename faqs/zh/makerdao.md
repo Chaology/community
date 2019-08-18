@@ -1,4 +1,4 @@
-# MakerDAO 常见问题答疑
+# MakerDAO
 
 ## MakerDAO 是什么？
 
